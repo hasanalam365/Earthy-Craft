@@ -7,7 +7,9 @@ Welcome to our Painting Community, where creativity meets connection. Our platfo
 - **Personal Gallery**: Users can create their own galleries to display their paintings. Add, update, and delete your artworks with ease.
 - **User Profiles**: Customize your profile to reflect your artistic identity. Update your information and connect with other artists.
 - **Community Interaction**: Discover and appreciate the work of fellow artists. Engage through comments and likes to build meaningful connections.
-
+- **User Authentication:** Firebase authentication for secure user login and registration.
+- **CRUD Operations:** Users can add, remove, update, and view their paintings.
+- **Responsive Design:** Designed with responsive UI using React and Tailwind CSS for a seamless experience across devices.
 Join us in celebrating the world of art. Create, share, and inspire with our painting website!
 
 ## Some Links:
@@ -16,11 +18,6 @@ Join us in celebrating the world of art. Create, share, and inspire with our pai
 - [Server Side Repogitory](https://github.com/hasanalam365/Earthy-Craft-Server)
 
 
-## Features
-
-- **User Authentication:** Firebase authentication for secure user login and registration.
-- **CRUD Operations:** Users can add, remove, update, and view their paintings.
-- **Responsive Design:** Designed with responsive UI using React and Tailwind CSS for a seamless experience across devices.
 
 ## Technologies / Tools use:
 

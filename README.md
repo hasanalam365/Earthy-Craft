@@ -12,7 +12,6 @@ Welcome to the Paintings Website! This is a MERN (MongoDB, Express.js, React.js,
 
 - **User Authentication:** Firebase authentication for secure user login and registration.
 - **CRUD Operations:** Users can add, remove, update, and view their paintings.
-- **Real-time Updates:** Firebase Realtime Database to ensure real-time updates of paintings.
 - **Responsive Design:** Designed with responsive UI using React and Tailwind CSS for a seamless experience across devices.
 
 ## Technologies / Tools use:

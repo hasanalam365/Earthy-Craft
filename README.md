@@ -1,6 +1,6 @@
-# Paintings Website
+**# Paintings Website
 
-Welcome to the Paintings Website! This is a MERN (MongoDB, Express.js, React.js, Node.js) stack application with Firebase authentication, designed to allow users to showcase their paintings.
+Welcome to the Paintings Website! This is a MERN (MongoDB, Express.js, React.js, Node.js) stack application with Firebase authentication, designed to allow users to showcase their paintings.**
 
 ## Some Links:
 - [Live Side Link](https://earthy-art-and-craft.web.app)

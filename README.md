@@ -1,4 +1,4 @@
-# Painting Community
+# Earthy Craft
 
 Welcome to our Painting Community, where creativity meets connection. Our platform is dedicated to artists of all levels who want to showcase, share, and discover amazing artwork. Whether you're a professional artist or a hobbyist, our site offers a space for you to express yourself and engage with a vibrant community.
 
